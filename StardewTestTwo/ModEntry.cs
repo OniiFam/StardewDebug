@@ -30,6 +30,8 @@ namespace StardewTestTwo
     {
         this.Monitor.Log($"Player pressed {e.KeyPressed}.");
     }
+
+    new 
 }
 }
 
