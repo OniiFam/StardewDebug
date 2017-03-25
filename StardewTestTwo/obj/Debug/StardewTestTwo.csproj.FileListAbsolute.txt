@@ -1,0 +1,4 @@
+c:\users\brendan\documents\visual studio 2015\Projects\StardewTestTwo\StardewTestTwo\bin\Debug\StardewTestTwo.dll
+c:\users\brendan\documents\visual studio 2015\Projects\StardewTestTwo\StardewTestTwo\bin\Debug\StardewTestTwo.pdb
+c:\users\brendan\documents\visual studio 2015\Projects\StardewTestTwo\StardewTestTwo\obj\Debug\StardewTestTwo.dll
+c:\users\brendan\documents\visual studio 2015\Projects\StardewTestTwo\StardewTestTwo\obj\Debug\StardewTestTwo.pdb
